@@ -20,10 +20,10 @@ The sender sends a sample.txt in chunks of 1024 bytes (every chunk is encrypted 
 
 ## Steps  
 1. First things first, we need keys. Irrespective what program you wish to execute, run KeyGen.py first. This shall create key(s) in the keys folder.  
-  + *python KeyGen.py*
-2. Secondly, run sendn.py, this shall wait for a reciever before sending out a file to reciever. 
-  + *python sendn.py*
-3. Lastly, run recn.py, this shall connect to a sender and starts to recieve file.
-  + *python recn.py*
+`python KeyGen.py`
+2. Secondly, run sendn.py, this shall wait for a reciever before sending out a file to reciever.  
+`python sendn.py`
+3. Lastly, run recn.py, this shall connect to a sender and starts to recieve file.  
+`python recn.py`
 
 
