@@ -1,4 +1,5 @@
-# BasicCryptography
+# BasicCryptography  
+|License| |Python Versions|
 Get started with the basics of cryptography in Python.
 
 I'm assuming that the basics of crytography are already clear to you.   
