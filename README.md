@@ -28,4 +28,5 @@ The sender sends a sample.txt in chunks of 1024 bytes (every chunk is encrypted 
 3. Lastly, run recn.py, this shall connect to a sender and starts to recieve file.  
 `python recn.py`
 
-
+## License 
+Made by Akash Govind under [MIT License ©](http://prodicus.mit-license.org/)
